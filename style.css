@@ -1,0 +1,56 @@
+
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.centrado{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.background{
+    background-color: beige;
+}
+
+.container{
+    padding-left: 16rem;
+    padding-right: 16rem;
+}
+
+.padding{
+    padding: 1rem;
+}
+
+.header__title{
+    font-size: 3rem;
+    color: rgb(0, 0, 0);
+}
+
+.header__paginas{
+    background-color: black;
+}
+
+.header__paginas__1{
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.contenedor__img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 4rem;
+}
+
+.imagen__ejemplo{
+    width: 25rem;
+}
+
+.contenedor__footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10rem;
+}
